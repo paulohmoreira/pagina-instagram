@@ -1,2 +1,2 @@
-# pagina-instagram
-Desafio recriando a página inicial do Instagram
+# Página inicial do Instagram
+Desafio recriando a página inicial do Instagram utilizando flexbox
